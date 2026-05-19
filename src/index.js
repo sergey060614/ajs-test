@@ -1,0 +1,1 @@
+import ajs from '@sergey060614/ajs';console.log(ajs.info());
